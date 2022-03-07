@@ -2,7 +2,7 @@
 
 The CICD.sh project was released as an experiment.  It is available here:
 
-Web Site: [https://www.cicd.sh/](https://www.cicd.sh/)
+Web Site: [https://www.cicd.sh](https://www.cicd.sh)
 
 Repo: [https://github.com/FredLackey/cicd.sh](https://github.com/FredLackey/cicd.sh)
 
